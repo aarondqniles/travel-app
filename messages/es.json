@@ -1,0 +1,1037 @@
+{
+  "translate": {
+    "navbar": {
+      "liveChat": "Chat en vivo",
+      "bookSection": "Reservar una sección",
+      "profile": "Perfil",
+      "signOut": "Cerrar sesión",
+      "login": "Iniciar sesión",
+      "signUp": "Registrarse",
+      "aboutUs": "Sobre nosotros",
+      "visaType": "Tipo de visa",
+      "fees": "Tarifas",
+      "exploreJobs": "Explorar trabajos",
+      "faq": "Preguntas frecuentes",
+      "businessVisa": "Visa de negocios",
+      "workVisa": "Visa de trabajo",
+      "expiredVisaComplicated": "Visa vencida / Complicada"
+    },
+
+    "navbarLinks": {
+      "aboutUs": "Sobre nosotros",
+      "contactUs": "Contáctanos",
+      "reviews": "Reseñas",
+      "visaType": "Tipo de visa",
+      "fees": "Tarifas",
+      "exploreJobs": "Explorar trabajos",
+      "faq": "Preguntas frecuentes",
+      "businessVisa": "Visa de negocios",
+      "workVisa": "Visa de trabajo",
+      "expiredVisaComplicated": "Visa vencida / Complicada",
+      "Family Visa": "Visa familiar",
+      "Religious Visa": "Visa religiosa",
+      "Switzerland Work Visa": "Visa de trabajo de Suiza",
+      "USA Work Visa": "Visa de trabajo de EE. UU.",
+      "Switzerland Business Visa": "Visa de negocios de Suiza",
+      "USA Business Visa": "Visa de negocios de EE. UU.",
+      "Switzerland": "Suiza",
+      "USA": "EE. UU.",
+      "Jobs in USA": "Trabajos en EE. UU.",
+      "Jobs in Switzerland": "Trabajos en Suiza",
+      "Jobs in Canada": "Trabajos en Canadá",
+      "Jobs in Australia": "Trabajos en Australia",
+      "USA Fee": "Tarifa de EE. UU.",
+      "Switzerland Fee": "Tarifa de Suiza"
+    },
+
+    "profileMGCPage": {
+      "header": "Migrar con Brújula",
+      "header1": "Bienvenido a Migrar con Brújula",
+      "paragraph1": "Nos enorgullecemos de nuestra profunda experiencia legal, nuestro compromiso con un enfoque centrado en las personas y nuestra adopción de procesos impulsados por la tecnología. Además de nuestros servicios de inmigración, Migrar con Brújula también funciona como una agencia de reclutamiento. Tenemos una amplia red de startups, agencias y fincas que están constantemente en busca de inmigrantes extranjeros. Nuestros servicios proporcionan un camino eficiente para empresas, empleados, inversores, estudiantes y familias que buscan solicitar visas y tarjetas verdes en Europa y los Estados Unidos. Estamos aquí para guiarlo en cada paso de su viaje de inmigración. ¡Vamos a navegar juntos por las complejidades de la inmigración!",
+      "header2": "Servicios que proporcionamos",
+
+      "services": {
+        "listHeader1": "Evaluación:",
+        "list1": "Evaluación de su caso, tipo de visa, conjunto de habilidades y proporcionar opiniones honestas.",
+        "listHeader2": "Servicios de reclutamiento:",
+        "list2": "Nuestros reclutadores lo conectan con agencias, pequeñas empresas/start-ups y organizaciones que necesitan mano de obra, servicios, habilidades o cuidados.",
+        "listHeader3": "Asistencia legal:",
+        "list3": "Asistencia con audiencias, solicitudes de visa y casos de visa problemáticos.",
+        "listHeader4": "Integración cultural:",
+        "list4": "Proporcionar apoyo y recursos para ayudar a los inmigrantes a integrarse en sus nuevas comunidades, incluyendo clases de idiomas, programas de orientación cultural y eventos de networking.",
+        "listHeader5": "Oportunidades de networking:",
+        "list5": "Lo conectamos con nuestras comunidades de inmigrantes extranjeros basadas en los Cantones o países a los que se dirige.",
+        "listHeader6": "Soporte continuo:",
+        "list6": "Ofreciendo apoyo continuo y asistencia durante todo el proceso de inmigración y empleo, incluyendo consultas de seguimiento y asistencia con cualquier problema o preocupación que pueda surgir.",
+        "listHeader7": "Orientación:",
+        "list7": "Orientación sobre el sistema de seguridad social del país, sistema de impuestos y otras regulaciones locales."
+      },
+
+      "header3": "Parece que aún no has comenzado tu proceso con nosotros. ¿Te gustaría obtener una evaluación gratuita con uno de nuestros agentes?",
+      "evaluation": "Comenzar la evaluación gratuita"
+    },
+
+    "homePage": {
+      "title": "Experiencia en Ley de Inmigración Entregada",
+      "span1": "Expertise",
+      "span2": "Delivered",
+      "intoTitle": "¡Bienvenido a Migrate Compass!",
+      "intro": "Nuestro equipo de expertos en inmigración tiene fuertes relaciones con embajadas y consulados en los principales países con los que trabajamos, lo que facilita a nuestros clientes la solicitud de visa de negocios, visa de empleo y más a cualquier número de países como EE. UU., Suiza, Australia y Canadá. Migrate Compass también opera como una agencia de reclutamiento ya que tenemos una vasta red de empresas, startups y pequeñas firmas que están constantemente en necesidad de individuos y trabajadores dedicados. Nuestros servicios proporcionan un camino eficiente para empresas, empleados, inversores, estudiantes y familias que buscan solicitar una visa y residencia permanente en Europa y los Estados Unidos. Estamos aquí para guiarlo en cada paso de su viaje de inmigración. ¡Naveguemos juntos las complejidades de la inmigración!",
+
+      "introBeneath": "Estos son los países con los que trabajamos. Estos países ocupan un lugar especial en nuestros corazones, ya que muchos de nuestros miembros del equipo han servido como oficiales de inmigración en algunas de estas naciones.",
+      "introSpan": "regiones principales.",
+      "introSpan1": "nuestros corazones, ya que muchos de nuestros miembros del equipo han servido como oficiales de inmigración."
+    },
+    "homeQuote": {
+      "thisAre": "Estas son",
+      "coreRegions": "las regiones principales con las que trabajamos.",
+      "specialPlace": "Estos países ocupan un lugar especial en nuestros corazones, ya que muchos de",
+      "teamMembers": "nuestros miembros del equipo han servido como oficiales de inmigración",
+      "inNations": "en algunas de estas naciones."
+    },
+
+    "offices": {
+      "usaOffice": "Oficina en EE. UU.",
+      "usaComment": "Emprende tu sueño americano con facilidad. Deja que Migrate Compass acelere tu proceso de visa para EE. UU.",
+      "canadaOffice": "Oficina en Canadá",
+      "canadaComment": "Desde la visa de nómadas hasta la visa no calificada, deja que Migrate Compass allane el camino para tu aventura canadiense.",
+      "australiaOffice": "Oficina en Australia",
+      "australiaComment": "Deja que Migrate Compass sea tu puerta de entrada a la tierra de los canguros. Explora las vibrantes ciudades australianas con facilidad.",
+      "switzerlandOffice": "Oficina en Suiza",
+      "switzerlandComment": "Déjate llevar por la belleza pintoresca y la tranquilidad de Suiza. Confía en Migrate Compass para tu proceso de visa suiza."
+    },
+
+    "common": {
+      "bookSection": "Reservar una sección",
+      "chatOfficer": "Chatea con un oficial",
+      "chatWithUs": "Chatea con nosotros",
+      "needHelp": "¿Necesitas la ayuda de un experto?",
+      "supportLine": "Línea de soporte",
+      "supportDetails": "¿No estás seguro de qué tipo de visa es para ti? No te preocupes. Estamos aquí para discutir tu caso de visa y dar asesoramiento profesional adaptado a tu situación específica.",
+      "submit": "Enviar",
+      "Business Visa": "Visa de Negocios",
+      "othersVisa": "Otras Visas",
+      "exploreJobs": "Explorar Trabajos",
+      "fees": "Tarifas",
+      "faq": "Preguntas Frecuentes",
+      "migrateDetails": "Migrate Compass, un servicio registrado con el Departamento de Estado de EE. UU., ofrece oportunidades de trabajo, procesamiento de visas, visas vencidas, servicios de finalización y mensajería para solicitudes de visa y mucho más. Seguimos oficialmente todos los protocolos de instrucciones basados en su aporte, el Departamento de Estado y los consulados/embajadas extranjeros.",
+
+      "reviews": "Testimonios y reseñas",
+      "clientsExperience": "Clientes",
+      "clientsExperienceSpan": "Experiencia",
+      "googleReview": "500+ Reseñas en Google",
+      "dontTakeFromUs": "No solo te fíes de nosotros,",
+      "letClientsTalk": "¡deja que nuestros clientes hablen!",
+      "readMoreStories": "Lee más historias",
+      "premium": "Premium",
+      "services": "Servicios",
+      "visaPremium": "Visa Premium",
+      "regularCases": "Casos Regulares",
+      "visaTopPremium": "Visa Top-Premium",
+      "problematicCases": "Casos Problemáticos",
+      "reviewHeader": "En línea",
+      "reviewSpan": "Servicios de Visa",
+      "reviewParagraph": "Solicitar una visa en línea nunca ha sido más fácil que con Migrate Compass. Nuestro equipo de expertos en viajes tiene relaciones con embajadas y consulados en todo el mundo, facilitando a nuestros clientes la solicitud de visa de negocios, visa de empleo y más a cualquier número de países como EE. UU., Suiza, Australia y Canadá. Incluso si necesitas servicio de visa dentro de la semana en que estás viajando, trabajaremos contigo de principio a fin, asegurando que tu documentación se ajustará a los requisitos de las embajadas extranjeras."
+    },
+
+    "benefits": {
+      "Title": "Beneficio de trabajar con nosotros",
+      "title1": "Evitar el riesgo de denegación de visado",
+      "details1": "Las denegaciones de visa a menudo provienen de errores o evidencia insuficiente. Nuestro equipo ayuda a prevenir estos problemas, revisa tu solicitud y te prepara para la entrevista, mejorando tus posibilidades de éxito.",
+      "title2": "Patrocinadores de trabajo",
+      "details2": "Te conectamos con empresas de confianza listas para proporcionar oportunidades de trabajo y patrocinio.",
+      "title3": "Reduce tus gastos",
+      "details3": "Enfrentar la denegación de visa puede ser costoso. Nuestra orientación experta simplifica el proceso, ahorrándote tiempo, dinero y estrés.",
+      "title4": "Casos complicados",
+      "details4": "Ya sea que tu visa haya expirado o hayas enfrentado una deportación, evaluamos y abordamos el problema de manera efectiva.",
+      "title5": "Guía personal",
+      "details5": "Un oficial superior dedicado te será asignado una vez que comiences tu solicitud.",
+      "title6": "Disfruta de la tranquilidad",
+      "details6": "Deja las complejidades de los requisitos de visa, formularios, costos y entrevistas a nuestros expertos. Nos encargaremos de tu caso para un resultado exitoso.",
+      "title7": "Valora tu tiempo",
+      "details7": "Agilizamos tu proceso de visa. Desde revisar opciones hasta manejar papeleo, gestionamos tu caso de principio a fin. Nuestras herramientas fáciles de usar te ayudan a concentrarte en lo que es importante.",
+      "title8": "Soporte las 24 horas",
+      "details8": "Nuestro equipo está disponible 24/7/365 para atender de manera rápida tus consultas e inquietudes, asegurando servicios eficientes en todo momento."
+    },
+
+    "workProcess": {
+      "Title": "Proceso de trabajo y solución",
+      "title1": "Iniciar aplicación",
+      "details1": "Complete el formulario de solicitud respondiendo a una serie simple de preguntas sobre usted mismo.",
+      "title2": "Te conseguimos un trabajo",
+      "details2": "Te conectamos con empresas de confianza con las que tenemos asociación para oportunidades laborales.",
+      "title3": "Pago del servicio",
+      "details3": "Después del pago, se le asignará un oficial dedicado. Este oficial le guiará desde la obtención de un trabajo hasta el procesamiento de su solicitud de visa, e incluso le ayudará a establecerse en su nuevo país.",
+      "title4": "Verificación de documentos",
+      "details4": "Verificamos la autenticidad de los detalles de su solicitud y brindamos asistencia para obtener cualquier documento requerido que pueda faltar.",
+      "title5": "Asistencia para la entrevista",
+      "details5": "Nuestro especialista en visas coordina su entrevista en la embajada y asegura la preparación de los documentos.",
+      "title6": "Adquisición de visa",
+      "details6": "Te apoyamos durante todo el proceso, simplificamos el proceso y aumentamos tus posibilidades de aprobación de la visa",
+      "title7": "Soporte",
+      "details7": "Luego te apoyamos para encontrar alojamiento y establecerte en la residencia de tu elección.",
+      "title8": "Orientación",
+      "details8": "Orientación y familiarización con la seguridad social del país, el sistema fiscal y otras regulaciones locales"
+    },
+
+    "clientReviews": {
+      "name1": "Ava G.",
+      "comment1": "Obtuve un patrocinador de Suiza a través de Migrate Compass y gracias a mi oficial asignado, ahora trabajo como electricista con una pequeña agencia mecánica en Basilea.",
+      "rating1": 4,
+      "name2": "Mia H.",
+      "comment2": "Me mudé de China a Suiza con una visa de trabajo como maestra. Me consiguieron un patrocinador y me ayudaron con el proceso de reubicación.",
+      "rating2": 5,
+      "name3": "Noah E.",
+      "comment3": "Mi oficial asignado proporcionó un excelente apoyo para obtener una visa de negocios para EE. UU. Tomé la ruta E-2, mi familia también reside conmigo.",
+      "rating3": 4.5,
+      "name4": "Markuss T.",
+      "comment4": "Aseguré un trabajo como conductor de camiones en Australia. Gracias a Migrate Compass y mi oficial asignado que hicieron un gran trabajo al ayudarme a instalarme en el país.",
+      "rating4": 5,
+      "name5": "Olivia S.",
+      "comment5": "Aseguré un puesto como electricista en EE. UU. Mi oficial ayudó a negociar una mejor oferta para mí también.",
+      "rating5": 4.5,
+      "name6": "Ruth L.",
+      "comment6": "Estaba en México como estudiante, pero ahora trabajo como enfermera en Australia. Su experiencia fue de primera clase.",
+      "rating6": 5,
+      "name7": "Jack R.",
+      "comment7": "Estoy agradecido con Migrate Compass por ayudarme a obtener una visa de trabajo para EE. UU. como conductor de camiones. El apoyo de mis oficiales asignados hizo que el proceso de inmigración fuera fácil.",
+      "rating7": 5,
+      "name8": "Aaron H.",
+      "comment8": "Migrate Compass me ayudó a conseguir un trabajo como trabajador agrícola en Australia. También ayudaron a elegir el mejor trabajo según sus áreas y costos.",
+      "rating8": 5,
+      "name9": "Paul S.",
+      "comment9": "Gracias a Migrate Compass, aseguré un trabajo como fontanero en Suiza. Ahora vivo en Berna y el salario es genial.",
+      "rating9": 5,
+      "name10": "Liam S.",
+      "comment10": "Gracias a Migrate Compass, aseguré un puesto como electricista en Suiza. Viví en Argentina toda mi vida, ahora estoy contento de experimentar la vida en Basilea, Suiza.",
+      "rating10": 5,
+      "name11": "Emily C.",
+      "comment11": "Estoy agradecida con Migrate Compass por guiarme en el proceso de obtener una visa de trabajo para Canadá como ingeniera mecánica. Mi oficial fue muy amable.",
+      "rating11": 4.5,
+      "name12": "Emma D.",
+      "comment12": "Migrate Compass facilitó mi mudanza a Canadá al ayudar con una visa familiar. Su apoyo hizo que la transición fuera libre de estrés.",
+      "rating12": 4.5,
+      "name13": "Chloe B.",
+      "comment13": "Estoy agradecida con Migrate Compass por guiarme en el proceso de obtener una visa de trabajo para Canadá como enfermera. Mi oficial asignado fue realmente agradable.",
+      "rating13": 5,
+      "name14": "Noah L.",
+      "comment14": "Migrate Compass me guió para obtener una visa de trabajo para Suiza como bartender. Ahora trabajo como camarero en Zúrich.",
+      "rating14": 5,
+      "name15": "Ava T.",
+      "comment15": "Estoy agradecida con Migrate Compass por ayudarme a obtener una visa de negocios para Suiza. Su experiencia hizo posible mi viaje empresarial.",
+      "rating15": 5,
+      "name16": "James C.",
+      "comment16": "Migrate Compass me ayudó a obtener la visa R1 y luego me iluminó sobre lo que se debe y no se debe hacer.",
+      "rating16": 5,
+      "name17": "Isabella G.",
+      "comment17": "Gracias a Migrate Compass, aseguré un trabajo como fontanero en Australia. Su ayuda con la visa de trabajo fue invaluable.",
+      "rating17": 5,
+      "name18": "Ethan M.",
+      "comment18": "Migrate Compass me ayudó a obtener una visa de trabajo para Suiza como coordinador de personal de máquinas, aunque después de un año puedo trabajar para quien quiera.",
+      "rating18": 5,
+      "name19": "Sophie K.",
+      "comment19": "Estoy agradecida con Migrate Compass por ayudarme a obtener una visa familiar para Canadá. Su enfoque personalizado hizo que el proceso fuera sin problemas.",
+      "rating19": 5,
+      "name20": "William F.",
+      "comment20": "Migrate Compass desempeñó un papel fundamental en asegurar mi trabajo como anfitriona de hotel en EE. UU. Su orientación durante el proceso de visa fue invaluable.",
+      "rating20": 5,
+      "name21": "Charlotte B.",
+      "comment21": "Gracias a Migrate Compass, aseguré un puesto como enfermera en Australia. Su experiencia en el procesamiento de visas facilitó la transición.",
+      "rating21": 5,
+      "name22": "Oliver W.",
+      "comment22": "Migrate Compass me ayudó a obtener una visa religiosa para EE. UU. Nunca supe que era posible.",
+      "rating22": 5,
+      "name23": "Amelia P.",
+      "comment23": "Estoy agradecida con Migrate Compass por ayudarme a obtener una visa de trabajo para Canadá como trabajadora agrícola. La guía de mi oficial asignado fue la mejor.",
+      "rating23": 5,
+      "name24": "Muray D.",
+      "comment24": "Migrate Compass brindó un excelente apoyo para obtener una visa de negocios para Suiza. Ahora tengo una pequeña propiedad y una tienda aquí en Berna.",
+      "rating24": 5,
+      "name25": "Benjamin H.",
+      "comment25": "Migrate Compass desempeñó un papel clave en la obtención de mi visa religiosa para EE. UU. Era pastor principal en Nairobi.",
+      "rating25": 5,
+      "name26": "Henry C.",
+      "comment26": "Migrate Compass me ayudó a obtener una visa familiar para Australia. Mi esposa e hijos ahora viven conmigo.",
+      "rating26": 5,
+      "name27": "Joshua D.",
+      "comment27": "Migrate Compass brindó un excelente apoyo para obtener una visa de negocios para EE. UU. Dieron consejos y orientación honestos.",
+      "rating27": 5,
+      "name28": "Daniel M.",
+      "comment28": "Mi oficial asignado desempeñó un papel clave en la obtención de mi visa religiosa para EE. UU. Su profesionalismo y dedicación fueron evidentes en todo momento.",
+      "rating28": 5,
+      "name29": "Avery L.",
+      "comment29": "Mi oficial asignado fue amable y gracias a Migrate Compass por ayudarme a asegurar un trabajo como anfitriona de cruceros en Australia. Su guía durante todo el proceso de visa no fue tan difícil.",
+      "rating29": 4.5,
+      "name30": "Sophia M.",
+      "comment30": "Migrate Compass desempeñó un papel crucial en asegurar mi trabajo como bartender en Canadá. Su experiencia en navegar por el proceso de visa de trabajo fue excepcional.",
+      "rating30": 5,
+      "name31": "Ethan B.",
+      "comment31": "Soy pastor principal de Francia, pero ahora estoy en EE. UU. gracias a Migrate Compass que desempeñó un papel clave en la obtención de mi visa religiosa para EE. UU.",
+      "rating31": 4,
+      "name32": "Lucas P..",
+      "comment32": "Estoy agradecido con James, mi oficial a cargo de mi caso, por guiarme en el proceso de obtener una visa de trabajo para Canadá como fontanero. Su profesionalismo fue evidente.",
+      "rating32": 5,
+      "name33": "Randy M.",
+      "comment33": "Soy mecánico de Italia, ahora trabajando en Australia gracias a Migrate Compass. Me ayudaron a asegurar una visa de trabajo e incluso me conectaron con mi empleador actual.",
+      "rating33": 5,
+      "name34": "Ahaan K.",
+      "comment34": "Migrate Compass fue instrumental para ayudarme a mudarme de India a EE. UU. con una visa familiar. Ahora estoy felizmente establecido con mi familia en California.",
+      "rating34": 4,
+      "name35": "Isabella R.",
+      "comment35": "Soy agricultora de Brasil y quería explorar oportunidades en Canadá. Migrate Compass lo hizo posible ayudándome a obtener una visa de trabajo.",
+      "rating35": 5,
+      "name36": "Liam S.",
+      "comment36": "Me mudé de Sudáfrica a Suiza con una visa de negocios con la ayuda de Migrate Compass. Su equipo y mi oficial fueron muy solidarios durante todo el proceso.",
+      "rating36": 4,
+      "name37": "Sophia T.",
+      "comment37": "Soy electricista de Filipinas. Migrate Compass me ayudó a conseguir un trabajo en Australia y me guió a través del proceso de visa de trabajo.",
+      "rating37": 5,
+      "name38": "Mason G.",
+      "comment38": "Soy de México, ahora trabajando en EE. UU. como ingeniero automotriz gracias a Migrate Compass. Me conectaron con el empleador con el que trabajo ahora.",
+      "rating38": 4,
+      "name39": "Ava L.",
+      "comment39": "Me mudé de Japón a Canadá con una visa de trabajo. Ahora trabajo como chef en un restaurante de renombre en Toronto.",
+      "rating39": 5,
+      "name40": "Logan P.",
+      "comment40": "Soy carpintero de Polonia, ahora trabajando en Suiza. Mi oficial asignado me asesoró y me conectó con la agencia con la que trabajo ahora.",
+      "rating40": 4,
+      "name41": "Jacob B.",
+      "comment41": "Soy pintor de España, ahora trabajando en Australia. Migrate Compass me ayudó a asegurar una visa de trabajo e incluso me conectaron con mi empleador actual.",
+      "rating41": 4,
+      "name42": "Emma W.",
+      "comment42": "Me mudé de Rusia a Canadá con una visa familiar con la ayuda de Migrate Compass. Ahora estoy felizmente establecido con mi familia en Vancouver.",
+      "rating42": 5,
+      "name43": "Ethan Z.",
+      "comment43": "Soy mecánico de Alemania, ahora trabajando en EE. UU. Migrate Compass hizo que el proceso de visa de trabajo fuera fácil y rápido.",
+      "rating43": 4,
+      "name44": "Avery T.",
+      "comment44": "Me mudé de India a Suiza con una visa de negocios con la ayuda de Migrate Compass. Su equipo fue muy solidario durante todo el proceso.",
+      "rating44": 5,
+      "name45": "Avery T.",
+      "comment45": "Me mudé de India a Suiza con una visa de negocios con la ayuda de Migrate Compass. Su equipo fue muy solidario durante todo el proceso.",
+      "rating45": 5
+    },
+
+    "aboutUsPage": {
+      "title": "Bienvenido a Migrate Compass",
+      "subTitle": "Ayudamos con la inmigración y las oportunidades laborales",
+      "subTitle1": "En los Estados Unidos y Europa",
+
+      "TeamLead": "Conoce a nuestro líder de equipo",
+      "MemberShip": "Educación y membresía",
+
+      "header": "Quiénes somos",
+      "subHeader": "Líderes mundiales",
+      "speech": "Migrate Compass se basa en más de años de experiencia y más de 2,000 profesionales expertos en inmigración, visas y pasaportes, abogados y oficiales de inmigración calificados en 5 o más países. Migrate Compass ofrece una suite integral de servicios bajo dos marcas principales: inmigración y patrocinio laboral. Nuestro primer objetivo, la inmigración, implica proporcionar asesoramiento estratégico y soluciones para corporaciones en todo el mundo. Nuestro segundo objetivo, el patrocinio laboral, implica ofrecer servicios líderes en el mercado tanto para clientes corporativos como individuales que buscan servicios de visa de trabajo y pasaporte. Migrate Compass es una empresa privada que está autorizada para procesar solicitudes de visa y acelerar pasaportes en consulados y agencias de pasaportes por una tarifa",
+
+      "OurVision": "Nuestra visión",
+      "visionDetail": "Simplificar el viaje, para unir personas, culturas y negocios y abrir el mundo.",
+
+      "OurMission": "Nuestra misión",
+      "missionDetails": "Habilitamos el movimiento global al manejar las complejidades de un mundo cambiante. Empoderamos a las personas y organizaciones para vivir, trabajar, viajar y comerciar sin problemas a través de nuestro alcance global, experiencia local y soluciones centradas en el cliente.",
+
+      "operateWithCare": "OPERAR CON CUIDADO",
+      "operateDetails": "Nos importa profundamente lo que hacemos y la diferencia que hacemos. Asumimos la responsabilidad, demostramos integridad y tomamos decisiones conscientes para hacer lo correcto. Aspiramos a dejar las cosas mejor de lo que las encontramos.",
+      "effectiveAndEfficient": "EFECTIVO Y EFICIENTE",
+      "effectiveDetails": "EFECTIVO Y EFICIENTE Buscamos un equilibrio cuidadoso de velocidad, calidad y eficiencia. Utilizamos procesos globales para lograr resultados consistentes y conformes. Empoderamos a los equipos para adaptarse a las necesidades cambiantes de nuestros clientes y las agencias gubernamentales con las que nos relacionamos.",
+
+      "purpose": "¿Su propósito de visita pertenece a alguna de estas categorías?."
+    },
+
+    "visaTypeAboutPage": {
+      "title1": "Trabajador calificado y no calificado",
+      "details1": "Para individuos que necesitan un patrocinador de trabajo, buscando oportunidades de empleo en los EE. UU. y Europa después de una evaluación, se le asignará un oficial dedicado.",
+      "title2": "Turista, visitante o tratamiento médico",
+      "details2": "Para individuos que viajan para turismo, visitas o tratamiento médico. Damos la bienvenida a todos los visitantes y nuestro servicio cubre cada paso del camino.",
+      "title3": "Negocios o empleo",
+      "details3": "Para profesionales que asisten a reuniones de negocios, individuos que necesitan un patrocinador de trabajo, realizan inversiones o comienzan a trabajar en los EE. UU. y Europa. Te ayudamos a obtener el tipo de visa correcto para tus necesidades.",
+      "title4": "Estudio o intercambio",
+      "details4": "Para estudiantes y visitantes de intercambio que comienzan su viaje académico en los EE. UU. Nos aseguramos de que tu solicitud esté impecable y cumpla con todos los requisitos."
+    },
+
+    "contactPage": {
+      "heroHeader": "Conéctate con nosotros directamente a través de",
+      "heroSubHeader": "la función de chat en tu cuenta gratuita.",
+      "scheduleAConsultationA": "Programar una",
+      "scheduleAConsultationB": "Consulta",
+      "consultationDetails": "Por favor, haz clic en el botón de abajo para programar una consulta con uno de nuestros abogados. Además de las consultas telefónicas, también ofrecemos consultas en vivo a través de esta plataforma. Si eres local y te gustaría hacer una consulta en persona en nuestra oficina de Fort Lauderdale, también podemos acomodarlo.",
+
+      "emailHeader": "Envíanos un mensaje",
+      "emailMsg": "Nos encantaría ayudarte con tus necesidades de inmigración. Utiliza el formulario de abajo para enviarnos un correo electrónico.",
+
+      "emailHeader1": "Proceso de inmigración simplificado",
+      "emailMsg1": "Para ver cómo hemos ayudado a nuestros clientes a superar desafíos de inmigración difíciles, visita nuestra página de reseñas y lee lo que nuestros clientes dicen sobre nuestros servicios en nuestra página de reseñas.",
+
+      "address": "Dirección / Oficinas",
+      "addressDetail1": "Oficina en Suiza: Stockerstrasse 38, CH-8002, Zúrich, Suiza",
+      "addressDetail2": "Oficina en EE. UU.: Sede de USCIS."
+    },
+
+    "reviewPage": {
+      "heroHeader": "Testimonios y Reseñas",
+      "heroSubHeader": "Nos enorgullece servir a clientes satisfechos a nivel mundial. Vea sus reseñas de Google en tiempo real a continuación.",
+      "writeReview": "Escribir una reseña",
+      "formHeader": "Inicia tu viaje"
+    },
+
+    "swissWorkPage": {
+      "heroHeader": "La visa de trabajo se facilita con Migrate Compass",
+      "heroSubHeader": "Obtén una visa de trabajo para Suiza.",
+      "formHeader": "Inicia tu viaje",
+      "header1": "¿Por qué elegir una visa de trabajo para Suiza?",
+      "header2": "Visa de trabajo para Suiza",
+      "headerDeatail2": "Si deseas trabajar en Suiza, necesitarás una visa de trabajo para Suiza. En Migrate Compass, garantizamos asistencia para la colocación laboral. Una de las formas de visas de larga duración de Suiza es la visa de trabajo suiza (permiso B / L). Esta visa otorga al titular el permiso para trabajar en Suiza durante la duración de la visa.",
+
+      "header3": "Tiempo de procesamiento de la visa de trabajo de Suiza",
+      "paragraph": "El tiempo de procesamiento para un permiso de trabajo de Suiza es de 6 a 12 semanas.",
+      "header4": "Requisitos de elegibilidad para una visa de trabajo para Suiza",
+      "header5": "Documentos requeridos",
+      "header6": "Migrate Compass está aquí para ofrecerle una experiencia sin complicaciones y asegurarse de que reciba su visa de trabajo suiza lo más rápido posible.",
+
+      "listItem1": "Necesitas un pasaporte válido con al menos dos páginas en blanco.",
+      "listItem2": "Tres copias de las páginas relevantes de tu pasaporte.",
+      "listItem3": "Copias de tu contrato de trabajo, incluyendo 2 fotos tamaño pasaporte.",
+      "listItem4": "Prueba de tu experiencia profesional",
+      "listItem5": "Prueba de tus calificaciones educativas o formación, como diplomas y certificados",
+      "serviceCard": {
+        "header": "Servicio completo de visa de trabajo",
+        "headerDetails1": "Te conectamos con empresas, firmas, individuos, para posibles ofertas de trabajo",
+        "headerDetails2": "Tenemos una red de clientes satisfechos con los que te emparejamos a tu llegada",
+        "headerDetails3": "¿No tienes tus papeles? Evaluaríamos y te conectaríamos con un oficial"
+      },
+
+      "swissWorkBenefits": {
+        "title1": "Impuestos más bajos",
+        "reason1": "Suiza tiene impuestos más bajos en comparación con muchos otros países, lo que te permite llevar a casa una mayor parte de tu salario.",
+        "title2": "Políticas de trabajo favorables",
+        "reason2": "Suiza ha facilitado las políticas para los trabajadores calificados, facilitando la obtención de visas de trabajo.",
+        "title3": "Profesionales calificados",
+        "reason3": "Las empresas suizas están contratando activamente a profesionales calificados en varios sectores.",
+        "title4": "Oportunidades de trabajo",
+        "reason4": "Suiza ofrece muchas oportunidades de trabajo, especialmente para aquellos con habilidades especializadas.",
+        "title5": "Salarios altos",
+        "reason5": "Los salarios suizos se encuentran entre los más altos del mundo, lo que lo convierte en un destino atractivo para los profesionales que buscan trabajos bien remunerados.",
+        "title6": "Equilibrio entre trabajo y vida personal",
+        "reason6": "La semana laboral promedio en Suiza es de 35.2 horas, promoviendo un equilibrio saludable entre el trabajo y la vida personal."
+      },
+
+      "swissWorkRequirement": {
+        "title1": "Oferta de trabajo",
+        "lists1": "Migrate Compass ayuda a asegurar ofertas de trabajo de pequeñas empresas en Suiza tanto para roles calificados como no calificados.",
+
+        "title2": "Experiencia laboral",
+        "lists2": "Para roles no calificados, la experiencia práctica puede ser ventajosa. Para roles calificados, generalmente se espera tener varios años de experiencia en tu campo.",
+
+        "title3": "Calificaciones",
+        "lists3": "Para roles calificados, debes poseer un título universitario o calificaciones equivalentes en tu campo de trabajo. Para roles de trabajo no calificado en ocupaciones escasas como agricultura, plomería, carpintería y otros trabajos no calificados, es posible que no se requieran calificaciones específicas.",
+
+        "title4": "Solicitud de permiso de trabajo",
+        "lists4": "Una vez que se asegura una oferta de trabajo, Migrate Compass ayuda en el proceso de solicitud de tu permiso de trabajo, asegurando un proceso de inmigración a Suiza sin complicaciones."
+      },
+
+      "reviews": {
+        "list1": "Gracias a Migrate Compass ahora trabajo como Gerente de Proyecto en una start-up.",
+        "list2": "Migrate Compass me ayudó a mí y a mi hermana a conseguir un trabajo como enfermeras, y la cultura laboral aquí es la mejor.",
+        "list3": "Soy de Pakistán, pero gracias a Migrate Compass, actualmente estoy en Suiza trabajando como fontanero y el pago es increíble."
+      }
+    },
+
+    "usaWorkPage": {
+      "heroHeader": "La visa de trabajo se facilita con Migrate Compass",
+      "heroSubHeader": "Obtén tu visa de trabajo para Estados Unidos en línea.",
+      "header1": "¿Cuáles son los requisitos de la visa EB3?",
+      "paragraph1": "Hay varios requisitos para la visa EB3. Las siguientes condiciones deben cumplirse para que se te apruebe una visa EB3. Mi equipo y yo estaremos encantados de ayudarte a determinar si cumples con estos requisitos.",
+      "header2": "Esto es lo que necesitas saber",
+      "headerDeatail2": "La visa EB3 permite a alguien obtener una tarjeta verde basada en conseguir el patrocinio de una empresa de EE. UU. que nosotros proporcionamos para ti. Para obtener una tarjeta verde, tu empresa debe pasar por el proceso de certificado laboral PERM. En esta guía, te guiaré a través de varios aspectos importantes del proceso de la visa EB3. También te mostraré cómo puedes utilizar esta visa para obtener una tarjeta verde para vivir en Estados Unidos.",
+
+      "header3": "Importancia de Migrate Compass",
+      "headerDeatail3": "Anualmente, el gobierno de los EE. UU. reserva nada menos que 12,000 visas específicamente para roles no especializados. Uno de los mayores desafíos para muchos es asegurar un empleador que sea capaz y esté dispuesto a patrocinarlos. Migrate Compass se asocia con empleadores calificados que están preparados para patrocinar a extranjeros, ya sea total o parcialmente, para permisos de trabajo.",
+      "span3": "La Visa EB-3 'Otros Trabajadores' presenta una valiosa oportunidad para que usted obtenga la residencia permanente en los Estados Unidos. Esto se puede lograr ajustando su estado actual o mediante el procesamiento consular en su país de origen. Si corresponde, su cónyuge e hijos solteros menores de 21 años también pueden ser elegibles para estos beneficios.",
+
+      "header4": "Información incompleta,",
+      "paragraph4": "La evidencia insuficiente y los obstáculos legales a menudo conducen a largos tiempos de procesamiento e incluso al rechazo de la visa. Si falta algún documento, por favor haz que tu oficial asignado o SupportLine estén al tanto.",
+      "header5": "Los requisitos son menos estrictos.",
+      "paragraph5": "La visa EB3 tiene requisitos menos estrictos que las visas EB1 o EB2. Esto significa que algunas personas que pueden no calificar para estas otras visas pueden ser elegibles para la visa EB3.",
+
+      "header6": "Tu cónyuge e hijos dependientes pueden venir a Estados Unidos.",
+      "paragraph6": "¿Adivina qué? ¡Con la visa EB3, tu familia también puede unirse a la aventura! Si tienes hijos menores de 21 años que no están casados, pueden subirse a bordo. ¿Y la mejor parte? Pueden ir a la escuela en los EE. UU. Tu cónyuge tampoco se queda fuera. Una vez que hayan ordenado sus documentos de trabajo o hayan obtenido su tarjeta verde, son libres para trabajar.",
+
+      "Header6": "Migrate Compass está aquí para ofrecerte una experiencia sin complicaciones y asegurarse de que recibas tu visa de trabajo de EE. UU. lo más rápido posible.",
+
+      "serviceCard": {
+        "header": "Servicio completo de visa de trabajo",
+        "headerDetails1": "Te conectamos con empresas, firmas, individuos, para posibles ofertas de trabajo",
+        "headerDetails2": "Tenemos una red de clientes satisfechos con los que te emparejamos a tu llegada",
+        "headerDetails3": "¿No tienes tus papeles? Evaluaríamos y te conectaríamos con un oficial"
+      },
+
+      "reviews": {
+        "list1": "Estoy agradecido con Migrate Compass por ayudarme a obtener una visa de trabajo para los EE. UU. como conductor de camión. El apoyo de mi oficial asignado hizo que el proceso de inmigración fuera fluido.",
+        "list2": "Conseguí un puesto como electricista en los EE. UU. Mi oficial ayudó a negociar una mejor oferta para mí también.",
+        "list3": "Conseguí un trabajo como enfermera en California, EE. UU. y Migrate Compass fue lo que mi agencia utilizó para procesar mi solicitud. Sus servicios fueron muy fluidos y amigables."
+      }
+    },
+
+    "swissBusinessPage": {
+      "heroHeader": "Visa basada en negocios / inversiones en Suiza",
+      "heroSubHeader": "Visa Dorada Suiza.",
+      "header1": "Visa de Inversor Suizo",
+      "paragraph1": "La Visa de Inversor Suizo, también conocida como el programa de Visa Dorada Suiza o el programa de Ciudadanía Suiza por Inversión, está diseñada para atraer a individuos de alto patrimonio neto e inversores extranjeros de países no pertenecientes a la Unión Europea (UE).",
+      "paragraph2": "Suiza ofrece un programa especial de Residencia por Inversión diseñado para ciudadanos no pertenecientes a la UE/EFTA. Esta emocionante oportunidad le permite a usted y a su familia vivir en Suiza al hacer una inversión. Este pago le otorga derechos de residencia en Suiza. El programa de Residencia por Inversión se destaca porque puede conducir a obtener un pasaporte suizo después de algún tiempo. Vivir en Suiza con este tipo de visa significa disfrutar de la paz y la belleza del país mientras construye sus sueños de negocios. Además, esta ruta eventualmente abre la posibilidad de convertirse en ciudadano, otorgando la libertad de trabajar en toda Europa sin necesidad de permisos o visas separadas.",
+      "header2": "Criterios de elegibilidad para la residencia de la Visa Dorada Suiza:",
+
+      "Eligibility": {
+        "list1": "Ser ciudadano no perteneciente a la UE",
+        "list2": "Invertir en una empresa suiza o hacer una contribución significativa a un negocio existente.",
+        "list3": "Tener entre 18 y 55 años.",
+        "list4": "necesita demostrar estabilidad financiera y proporcionar prueba de sus fondos de inversión.",
+        "list5": "Tener un historial criminal limpio.",
+        "list6": "La fuente de sus fondos de inversión debe ser legal.",
+        "list7": "Tener una fuente oficial de ingresos.",
+        "list8": "Haber poseído o alquilado una propiedad en el país."
+      },
+      "header3": "¿Cuáles son los beneficios de la Visa Dorada Suiza?",
+
+      "Benefits": {
+        "list1": "Viaje sin visa Schengen a las naciones Schengen:",
+        "details1": "Suiza es miembro de la Zona Schengen. Como resultado, los residentes suizos pueden viajar a otros países Schengen y permanecer hasta 90 días de 180 sin visa.",
+
+        "list2": "Reubicación a Suiza:",
+        "details2": "Durante la validez del permiso de residencia, el inversor y su familia obtienen el derecho de residir en Suiza. Una tarjeta de permiso de residencia es típicamente válida por un año. Es extensible si vive en la nación durante 183 días del año.",
+        "list3": "Acceso a educación y atención médica de alta calidad:",
+        "details3": "Las escuelas y universidades de Suiza son consideradas entre las mejores del mundo. Allí, los hijos del inversor pueden recibir una buena educación.",
+        "list4": "Atención médica:",
+        "details4": "Un permiso de residencia suizo otorga al titular acceso a tratamiento médico en clínicas locales o instituciones de otros países Schengen sin necesidad de una visa médica. La ciudadanía se concede después de diez años de residencia en el país."
+      },
+
+      "Header6": "Migrate Compass está aquí para ofrecerle una experiencia sin complicaciones y asegurarse de que reciba su Visa Dorada Suiza lo más rápido posible.",
+
+      "serviceCard": {
+        "header": "Visa de Negocios Suiza",
+        "headerDetails1": "Lo conectamos con nuestros socios comerciales establecidos",
+        "headerDetails2": "Asistimos en la preparación de toda la documentación y costos necesarios",
+        "headerDetails3": "Nuestro apoyo se extiende más allá de la aprobación de la visa, lo acompañamos a lo largo de su viaje"
+      },
+
+      "faq": {
+        "title": "Consulte nuestras preguntas frecuentes",
+        "list1": "¿Puede cualquiera aplicar al programa de la Visa Dorada Suiza?",
+        "list2": "¿Puedo convertirme en ciudadano suizo si me caso con alguien de Suiza?",
+        "list3": "¿Puede mi familia mudarse conmigo con mi Visa Dorada Suiza?"
+      }
+    },
+
+    "usaBusinessPage": {
+      "heroHeader": "Negocios / Inversiones basadas en los Estados Unidos",
+      "heroSubHeader": "¡Inversiones tan bajas como $50,000 o incluso menos han calificado para E2!",
+      "header1": "¿Qué es la Visa E2?",
+      "paragraph1": "La visa E2 es una visa no inmigrante para inversores, emprendedores y personas que buscan dirigir un negocio en los Estados Unidos. Con una visa E2, puedes iniciar un negocio en los EE. UU. o invertir en un negocio en los EE. UU. y trabajar para ese negocio.",
+      "paragraph2": "Existen dos tipos de visas de inversor, por lo que antes de buscar los requisitos de la visa E-2 para inversores, quieres asegurarte de que la visa E-2 sea la opción correcta para ti como inversor extranjero. Si la visa E-2 no es la opción correcta para ti, también existe la opción de una tarjeta verde de inversor EB-5.",
+
+      "paragraph3": "No hay límite para el número de veces que se puede renovar la visa E2. Por lo tanto, siempre que el negocio E2 continúe operando y cumpla con los requisitos de la visa E2, el titular de la visa E2 puede continuar renovando su visa y vivir y trabajar en los Estados Unidos.",
+
+      "header2": "La inversión debe ser una empresa operativa real",
+
+      "headerDetail2": "Una empresa operativa real significa que la empresa debe estar ofreciendo un bien o servicio tangible. Ejemplos de estas empresas son restaurantes, tiendas minoristas, consultorios médicos, etc. La inversión especulativa o inactiva, como las inversiones inmobiliarias, la tierra no desarrollada o las acciones en poder de un inversor que no tiene la intención de dirigir la empresa, no califica. De manera similar, los fondos no comprometidos en una cuenta bancaria o seguridad similar no se consideran una inversión.",
+
+      "header3": "¿Cuáles son los requisitos para el monto de inversión E-2?",
+      "headerDetail3": "A diferencia de la visa EB-5 que tiene montos de inversión mínimos especificados para sus dos categorías, la visa E-2 no tiene un mínimo para el capital empresarial y en su lugar busca un “capital sustancial”. Lo que determina un monto de inversión apropiado varía ampliamente dependiendo del tamaño y la naturaleza de cada negocio.",
+      "headerDetail4": "Los funcionarios de la embajada o USCIS usan su discreción para considerar si un monto de capital de inversión es apropiado o no. Aunque se cree ampliamente que tener un mínimo de $50,000 de capital es una buena regla general, en algunos casos, puedes necesitar más o menos. Por ejemplo, una pequeña tienda o empresa puede ser aprobada con un monto de inversión en decenas de miles de dólares. En general, sin embargo, tener una gran cantidad de inversión será útil y hará que tu caso sea más fuerte. Esta es otra área crítica que requiere trabajar con un abogado de inmigración de visa E-2 con experiencia, que es donde entra Migrate Compass.",
+
+      "header4": "Tiempo de procesamiento de la visa E-2",
+      "paragraph4": "El tiempo de procesamiento de una visa E-2 varía ampliamente dependiendo de la embajada desde la que estás aplicando. En algunas embajadas, el proceso puede tardar solo unas pocas semanas, mientras que en otras puedes tener que esperar varios meses. Si estás aplicando desde dentro de los Estados Unidos, puedes usar el servicio de procesamiento premium para que tu solicitud de visa se procese dentro de los 15 días calendario. Otro factor que podría ayudar a acelerar el proceso es si estás comprando un negocio existente que ya está registrado como una empresa del tratado E-2.",
+
+      "header5": "¿Cuáles son los requisitos de la visa E2?",
+      "Eligibility": {
+        "list1": "Debes ser ciudadano de un país con un tratado E2 con los Estados Unidos.",
+        "list2": "Debes hacer una inversión sustancial en una empresa de los EE. UU. o en la tuya.",
+        "list3": "Debes ingresar a los Estados Unidos para dirigir y desarrollar tu negocio E2.",
+        "list4": "Licencias de negocio.",
+        "list5": "La fuente de tus fondos de inversión debe ser legal.",
+        "list6": "Debes ser ciudadano de un país con un tratado E2 con los Estados Unidos."
+      },
+
+      "header6": "¿Cuáles son los beneficios de la Visa E2?",
+
+      "Benefits": {
+        "list1": "A diferencia de otras visas no inmigrantes, no necesitas mantener una residencia extranjera para obtener una visa E2.",
+        "list2": "No hay un monto mínimo de inversión establecido para calificar para una visa E2. Inversiones tan bajas como $50,000 o incluso menos han calificado para E2.",
+        "list3": "Con una visa E2, puedes iniciar un negocio en los Estados Unidos y trabajar para ese negocio.",
+        "list4": "Tu cónyuge puede solicitar autorización de trabajo, para trabajar en los Estados Unidos.",
+        "list5": "Tus hijos tienen acceso a las escuelas en los Estados Unidos.",
+        "list6": "Al obtener una visa E2, tu cónyuge e hijos solteros menores de 21 años también pueden calificar para visas E2."
+      },
+
+      "header7": "Información incompleta.",
+      "paragraph7": "La evidencia insuficiente, la documentación incompleta y los obstáculos legales a menudo conducen a tiempos de procesamiento largos, por favor haz que tu oficial asignado o SupportLine esté al tanto...",
+
+      "header8": "Tu cónyuge e hijos dependientes pueden venir a los Estados Unidos.",
+      "paragraph8": "¿Adivina qué? ¡Con la visa E2, tu familia también se une a la aventura! Si tienes hijos menores de 21 años que no están casados, pueden subirse a bordo. ¿Y la mejor parte? Pueden ir a la escuela en los EE. UU. Tu cónyuge tampoco se queda fuera. Una vez que hayan ordenado sus documentos de trabajo o hayan obtenido su tarjeta verde, son libres de trabajar.",
+
+      "Header8": "Migrate Compass está aquí para ofrecerte una experiencia sin complicaciones y asegurarse de que recibas tu visa de negocios de EE. UU. lo más rápido posible.",
+
+      "serviceCard": {
+        "header": "Visa de Negocios de EE. UU.",
+        "headerDetails1": "Te conectamos con nuestros socios comerciales establecidos",
+        "headerDetails2": "Asistimos en la preparación de toda la documentación necesaria",
+        "headerDetails3": "Nuestro apoyo se extiende más allá de la aprobación de la visa, te acompañamos a lo largo de tu viaje"
+      },
+
+      "reviews": {
+        "title": "Consulta nuestras opiniones",
+        "list1": "El proceso fue impecable. Migrate Compass fue excepcional, nos ayudaron con todo, aunque pasamos por el proceso durante el período de covid, nada les impidió responder a cualquiera de mis preguntas y no dejaron que covid retrasara su proceso para conectarnos con patrones de negocios basados en EE. UU. ¡No podría estar más feliz con ellos y los recomiendo altamente! Gracias de nuevo por hacer esto posible.",
+        "list2": "Gracias a mi oficial asignado que me iluminó a mí y a mi esposa sobre cómo podríamos ser dueños de un restaurante ya que somos chefs profesionales. A partir de ahora tenemos nuestro propio restaurante aquí en los EE. UU.",
+        "list3": "Gracias a Migrate Compass que me emparejó con un nacional de base estadounidense que posee un taller de mecánica."
+      }
+    },
+
+    "familyBasedVisaPage": {
+      "heroHeader": "Tarjeta Verde Basada en la Familia",
+      "heroSubHeader": "Reúnete con tu familia en los EE.UU. de manera rápida y sin complicaciones",
+      "header1": "Tarjeta Verde Basada en la Familia",
+      "paragraph1": "La visa de inmigrante basada en la familia es una de las formas más comunes en que las personas adquieren tarjetas verdes y se convierten en residentes permanentes en los Estados Unidos. Los ciudadanos y residentes permanentes pueden solicitar al USCIS que traigan a sus familiares al país con una visa de inmigrante.",
+      "paragraph2": "Actualmente, este programa de visa en particular representa aproximadamente dos tercios de las más de 1 millón de tarjetas de residencia emitidas anualmente. Al igual que cualquier otra visa de inmigrante, la tarjeta de residencia basada en la familia tiene varias subcategorías, cada una determinada por la relación familiar que existe entre el patrocinador y el beneficiario de la visa. La inmigración familiar es uno de nuestros servicios clave en Migrate Compass. Durante la última década, hemos ayudado a miles de familias a reunirse en los EE. UU.",
+
+      "span1": "¡Comienza tu viaje de inmigración hoy!",
+
+      "header2": "Tiempo de Procesamiento para Parientes Inmediatos",
+
+      "headerDetail2": "Debido a que no hay una limitación numérica para esta categoría, las visas siempre están disponibles para los solicitantes, lo que también significa un corto tiempo de procesamiento de 9 a 13 meses. Una vez que la petición I-130 presentada por el peticionario (ciudadano estadounidense) es aprobada por el USCIS, el beneficiario pariente inmediato (IR) no tendrá que esperar en la fila para obtener un número de visa.",
+      "headerDetail3": "Como se indicó anteriormente, esta categoría solo está destinada a cónyuges, hijos solteros (menores de 21 años) y padres de ciudadanos estadounidenses. Si un hijo de un ciudadano estadounidense está casado, él o ella ya no calificarán para esta categoría incluso si es menor de 21 años.",
+
+      "header3": "Elegibilidad para la Tarjeta Verde Basada en la Familia",
+
+      "Eligibility": {
+        "list1": "Debes demostrar una relación familiar cercana con el beneficiario de la visa. Esta relación debe caer bajo una de las categorías especificadas como parientes inmediatos o preferencia familiar.",
+        "list2": "Se requiere que mantengas tu residencia principal en los Estados Unidos.",
+        "list3": "Los niños deben ser menores de 21 años y no estar casados",
+        "list4": "Como patrocinador de la tarjeta verde, debes proporcionar evidencia de tu capacidad financiera para mantener a tu familiar patrocinado a su llegada a los Estados Unidos. Esto implica firmar una declaración jurada de apoyo, que debe indicar que tus ingresos anuales son suficientes para mantener a ti mismo, al beneficiario patrocinado y a todos los demás miembros dependientes de tu hogar.",
+        "list5": "El beneficiario de la visa debe ser admisible en los Estados Unidos. Esto significa que no deben tener ciertos antecedentes penales, problemas de salud o violaciones de inmigración anteriores que podrían hacerlos inelegibles para la visa."
+      },
+      "header4": "¿Cuáles son los documentos requeridos para el Formulario I-130?",
+
+      "Requirements": {
+        "list1": "Prueba de que el patrocinador es ciudadano estadounidense o titular de una tarjeta verde",
+        "list2": "Pasaporte válido por al menos seis meses más allá de la fecha prevista de entrada a los EE.UU.",
+        "list3": "Prueba de que existe una relación legalmente válida",
+        "list4": "Declaración jurada de apoyo",
+        "list5": "Certificado de nacimiento",
+        "list6": "Certificado de matrimonio, si corresponde",
+        "list7": "Documentación de terminación de matrimonio, si corresponde",
+        "list8": "Formulario de examen médico de inmigración",
+        "list9": "Dos fotografías tipo pasaporte. Deben cumplir con los requisitos de fotos del DOS"
+      },
+
+      "Header5": "Hable con nuestros abogados de inmigración.",
+
+      "paragraph5": "Trabajar con un abogado experimentado de Migrate Compass asegura que su petición de inmigración basada en la familia sea de la más alta calidad, minimizando costos innecesarios y retrasos en el tiempo. Nuestros respetables abogados de inmigración manejan todas las etapas cruciales y la documentación, ahorrándole tiempo y dinero.",
+      "paragraph6": "Migrate Compass le guiará a través del intrincado proceso de presentar una petición para el estatus de inmigración basado en la familia. Dada la complejidad del proceso de inmigración en los Estados Unidos, intentar navegarlo sin asistencia profesional puede ser desafiante.",
+
+      "paragraph7": "En Migrate Compass, creemos firmemente en la importancia de preservar y fortalecer la unidad familiar. Comience contactando a uno de nuestros abogados de inmigración basados en la familia para iniciar su caso. Nuestro equipo en Migrate Compass estará a su lado durante todo el proceso.",
+
+      "serviceCard": {
+        "header": "Servicios de Tarjeta Verde Familiar",
+        "headerDetails1": "Le guiamos a través del complejo proceso de solicitar una Tarjeta Verde Basada en la Familia.",
+        "headerDetails2": "Asistimos en la preparación de toda la documentación necesaria para su solicitud de Tarjeta Verde Basada en la Familia.",
+        "headerDetails3": "Nuestro apoyo se extiende más allá de la aprobación de la visa, le acompañamos a lo largo de su viaje de inmigración."
+      },
+
+      "reviews": {
+        "title": "Echa un vistazo a nuestras reseñas",
+        "list1": "Navegar por el proceso de la Tarjeta Verde Basada en la Familia fue desalentador, pero Migrate Compass lo hizo manejable. Su equipo estuvo allí en cada paso del camino, proporcionando orientación clara y respuestas oportunas. Estoy agradecido por su apoyo.",
+        "list2": "Obtener una Tarjeta Verde Basada en la Familia se sintió como un sueño hecho realidad, y no habría sido posible sin Migrate Compass. Su experiencia y dedicación hicieron una diferencia significativa en mi proceso de solicitud.",
+        "list3": "El viaje para obtener mi Tarjeta Verde Basada en la Familia fue más suave de lo que anticipé, gracias a Migrate Compass. Su profesionalismo y comprensión profunda del proceso aliviaron mis preocupaciones e hicieron la experiencia menos estresante."
+      }
+    },
+
+    "r1-BasedVisaPage": {
+      "heroHeader": "Simplifica tu Visa Religiosa R1",
+      "heroSubHeader": "Obtén tu Visa R1 de EE.UU.",
+      "header1": "Visa R1",
+      "paragraph1": "La visa R1 es una categoría de visa específicamente diseñada para individuos que desean venir a los EE.UU. para participar en trabajo religioso. Esto incluye desarrollar su vocación, ocupación o ministerio religioso. Cada una de estas categorías tiene criterios específicos que deben cumplirse. Los individuos que persiguen una vocación religiosa, como monjas o monjes, son típicamente aquellos que han hecho un voto de por vida. Este compromiso suele ser con una orden o comunidad religiosa. Por otro lado, aquellos que persiguen ocupaciones religiosas son individuos que realizan deberes religiosos que están tradicionalmente asociados con su fe. Estos deberes deben relacionarse fundamentalmente con el sistema de creencias y prácticas de la fe. Por último, aquellos que entran como ministros deben ser miembros capacitados del clero.",
+
+      "header2": "Beneficios de la Visa R1.",
+
+      "Benefits": {
+        "list1": "La visa R1 te permite traer a tus familiares inmediatos a los Estados Unidos.",
+        "list2": "Puedes vivir en los Estados Unidos hasta 5 años bajo la visa R1",
+        "list3": "La visa R1 te permite trabajar en la organización religiosa patrocinadora en una capacidad no profesional.",
+        "list4": "La visa R1 es una visa de doble intención, lo que significa que permite a los solicitantes buscar el estatus de tarjeta verde si así lo desean"
+      },
+
+      "header3": "Requisitos de la Visa R1.",
+
+      "Requirements": {
+        "list1": "Ser un trabajador religioso que viene a trabajar.",
+        "list2": "Debes ser miembro de una denominación religiosa durante al menos dos años antes de que se presente la solicitud.",
+        "list3": "Debes ser un ministro que viene a trabajar.",
+        "list4": "La R1 no es una visa de auto-petición. Más bien, necesitas que alguien solicite que vengas a los Estados Unidos a trabajar."
+      },
+
+      "Header4": "Proceso de la Visa R1",
+      "paragraph": "Migrate Compass está aquí para ofrecerte una experiencia sin complicaciones y asegurarse de que recibas la Visa R1 lo más rápido posible.",
+
+      "Process": {
+        "list1": "Carta de apoyo de la organización religiosa.",
+        "list2": "Descripción detallada del trabajo, incluyendo un desglose del tiempo asignado para cada deber.",
+        "list3": "Una carta de determinación válida del IRS confirmando el estado de exención de impuestos de la organización.",
+        "list4": "Evidencia de remuneración.",
+        "list5": "El auto-sostenimiento solo es aplicable a ciertos misioneros no inmigrantes.",
+        "list6": "Prueba de recursos financieros para la remuneración. La organización debe demostrar cómo se financiará el puesto, utilizando registros financieros pasados, presupuestos, etc.",
+        "list7": "Documentos que verifiquen la naturaleza y propósito religioso de la organización. Esto puede incluir textos religiosos, folletos, volantes y otra literatura relacionada."
+      },
+
+      "serviceCard": {
+        "header": "Visa Religiosa R1",
+        "headerDetails1": "Ayudamos a establecer conexiones con organizaciones religiosas para posibles ofertas de trabajo.",
+        "headerDetails2": "Tenemos redes de clientes satisfechos con la visa R1, y podemos conectarlos contigo para apoyo y orientación.",
+        "headerDetails3": "Asistimos en la preparación de documentación completa requerida para la visa R1."
+      },
+
+      "reviews": {
+        "title": "Echa un vistazo a nuestras reseñas",
+        "list1": "El servicio de Migrate Compass fue increíble a pesar de que mi caso era complicado",
+        "list2": "La orientación y el apoyo que recibí durante mi proceso de Visa R1 fue invaluable. Altamente recomendado para cualquiera ya que es un camino del que la gente apenas es consciente",
+        "list3": "Nunca pensé que podría emigrar a Estados Unidos a través de la ruta de la Visa R1, gracias al oficial asignado por manejar mi solicitud"
+      }
+    },
+
+    "usaServicePage": {
+      "header1": "Costo de Migrate Compass: ¿Vale la pena tu dinero?",
+      "paragraph1": "En Migrate Compass, nos enorgullece nuestro equipo de profesionales de inmigración con experiencia, incluyendo ex oficiales consulares, y nuestros fuertes lazos con los servicios consulares. Nuestra experiencia radica en la ley de inmigración de EE.UU. Ofrecemos un servicio integral que comienza con",
+
+      "span1": "conectándote con posibles empleadores en los Estados Unidos",
+
+      "span2": "Una vez que aseguramos una oferta de empleo para ti, te guiamos a través del proceso de obtención de tu visa de trabajo de EE.UU.",
+      "paragraph2": "Migrate Compass como entidad se especializa en la ley de inmigración.",
+      "headingText1": "Visa de Trabajo EB-3",
+      "subHeadingText1": "Plan de Pago de Asistencia",
+      "subHeadingDetails1": "Nuestro plan de pago de asistencia para la visa de trabajo EB-3 está diseñado para simplificar el proceso de obtención de tu visa de inmigrante basada en el empleo. Esto es lo que puedes esperar:",
+
+      "Benefits": {
+        "list1": "Asegurándote un trabajo con nuestras extensas redes de startups, agencias, pequeñas empresas e individuos en todo EE.UU.",
+        "list2": "Serías emparejado con otros inmigrantes para el alojamiento, donde ambos compartirían los gastos. Este es un arreglo opcional.",
+        "list3": "Recibes un servicio premium ya que mantenemos relaciones sólidas con los consulados de inmigración.",
+        "list4": "Asignación de un oficial dedicado para guiarte desde el primer día del proceso hasta tu llegada a EE.UU.",
+        "list5": "Evaluación exhaustiva de tu elegibilidad para las categorías de visa H-1B, Eb3 o L-1.",
+        "list6": "Asistencia con la preparación y presentación de tu solicitud de visa.",
+        "list7": "Orientación sobre la compilación de la documentación y evidencia necesarias.",
+        "list8": "Apoyo continuo de nuestro experimentado equipo de inmigración durante todo el proceso.",
+        "list9": "Actualizaciones regulares sobre el estado de tu solicitud y cualquier desarrollo."
+      },
+
+      "paragraph3": "Con nuestra tarificación transparente y opciones de pago flexibles, puedes concentrarte en tus oportunidades de carrera en los Estados Unidos mientras nosotros manejamos las complejidades de tu solicitud de visa.",
+
+      "paragraph4": "Para más información, por favor chatea con nuestro",
+
+      "header2": "Plan de Pago.",
+      "paymentTypeA": {
+        "heading1": "Primer Pago: Proceso de Solicitud",
+        "price1": "$3,970",
+        "text1": "Este pago se debe una vez que firmas el contrato de acuerdo. Esto inicia el proceso en el que un oficial dedicado comienza a trabajar en asegurarte un trabajo en los Estados Unidos. Esto cubre la obtención de tu propio oficial asignado y, lo más importante, la conexión con un patrocinador de confianza para oportunidades de empleo.",
+
+        "heading2": "Segundo Pago.",
+        "price2": "$8,930",
+        "text2": "Este pago se debe después de que te hemos asegurado un trabajo en los Estados Unidos.",
+
+        "uLFeesA": {
+          "list1": "Tasas de procesamiento consular",
+          "list2": "Tasas de procesamiento premium de USCIS para el manejo acelerado de tu I-140",
+          "list3": "Preparación y presentación de tu I-485 (Solicitud para Registrar Residencia Permanente o Ajustar Estado), si actualmente estás en los Estados Unidos",
+          "list4": "Servicios legales para tu caso, incluyendo la comunicación con USCIS y respondiendo a cualquier Solicitud de Evidencia",
+          "list5": "Costo Legal de USCIS",
+          "list6": "Tasa de Solicitud / Presentación",
+          "list7": "Orientación sobre la recopilación de la documentación y evidencia requeridas",
+          "list8": "Servicios de Migrate Compass para apoyo continuo durante todo el proceso",
+          "list9": "Tasas de envío para enviar tus documentos a USCIS",
+          "list10": "Preparación premium para la entrevista de visa"
+        },
+
+        "uLFeesC": {
+          "list1": "Tarifa de Servicio Total de Migrate Compass",
+          "list2": "Asistencia con el proceso de registro local a su llegada a los Estados Unidos",
+          "list3": "Apoyo en la búsqueda de alojamiento y establecimiento en los Estados Unidos",
+          "list4": "Orientación sobre el sistema de seguridad social de los Estados Unidos, el sistema fiscal y otras regulaciones locales"
+        },
+
+        "heading3": "Tercer Pago: Después de la Aprobación de la Visa.",
+        "price3": "$6,000",
+        "text3": "Este pago se debe después de que su visa haya sido aprobada.",
+        "paragraph": "Si tiene alguna pregunta o preocupación sobre el proceso de pago, no dude en ponerse en contacto con nosotros en support@migratecompass.com."
+      },
+
+      "paymentTypeB": {
+        "heading1": "Primer Pago: Proceso de Solicitud",
+        "price1": "$3,970",
+        "text1": "Este pago se debe una vez que firmas el contrato de acuerdo. Esto inicia el proceso en el que un oficial dedicado comienza a trabajar en asegurarte un trabajo en los Estados Unidos. Esto cubre la obtención de tu propio oficial asignado y, lo más importante, la conexión con un patrocinador de confianza para oportunidades de empleo.",
+
+        "heading2": "Segundo Pago: A lo largo de 12 Meses.",
+        "price2": "$1,120",
+        "text2": "Este es un plan de pago mensual que se debe hacer mensualmente después de que te hemos asegurado un trabajo en los EE.UU.",
+
+        "uLFeesA": {
+          "list1": "Tasas de procesamiento consular",
+          "list2": "Tasas de procesamiento premium de USCIS para el manejo acelerado de tu I-140",
+          "list3": "Preparación y presentación de tu I-485 (Solicitud para Registrar Residencia Permanente o Ajustar Estado), si actualmente estás en los Estados Unidos",
+          "list4": "Servicios legales para tu caso, incluyendo la comunicación con USCIS y respondiendo a cualquier Solicitud de Evidencia",
+          "list5": "Costo Legal de USCIS",
+          "list6": "Tasa de Solicitud / Presentación",
+          "list7": "Orientación sobre la recopilación de la documentación y evidencia requeridas",
+          "list8": "Servicios de Migrate Compass para apoyo continuo durante todo el proceso",
+          "list9": "Tasas de envío para enviar tus documentos a USCIS",
+          "list10": "Preparación premium para la entrevista de visa"
+        },
+
+        "uLFeesC": {
+          "list1": "Tarifa de Servicio Total de Migrate Compass",
+          "list2": "Asistencia con el proceso de registro local a su llegada a los Estados Unidos",
+          "list3": "Apoyo en la búsqueda de alojamiento y establecimiento en los Estados Unidos",
+          "list4": "Orientación sobre el sistema de seguridad social de los Estados Unidos, el sistema fiscal y otras regulaciones locales"
+        },
+
+        "heading3": "Tercer Pago: Después de la Aprobación de la Visa.",
+        "price3": "$6,000",
+        "text3": "Este pago se debe después de que su visa haya sido aprobada.",
+        "paragraph": "Si tiene alguna pregunta o preocupación sobre el proceso de pago, no dude en ponerse en contacto con nosotros en support@migratecompass.com."
+      },
+      "Header4": "Plan A",
+      "paragraph": "Costo Total: $18,900",
+      "Header5": "Plan B",
+      "paragraph5": "Costo Total: $23,400",
+
+      "Header6": "Cuándo contratar",
+      "span6": "¿Migrate Compass?",
+      "paragraph6": "La ley de inmigración en los Estados Unidos es complicada. Generalmente es práctico contratar a un especialista en inmigración como Migrate Compass para ahorrarle tiempo, dinero y evitar confusiones. Las situaciones en las que necesita contratar a un abogado de visas se enumeran a continuación.",
+
+      "reasonsToHireUs": {
+        "list1": "Buscar una visa basada en el empleo.",
+        "list2": "Acusado de un delito o cometido un delito y buscar la reentrada a los Estados Unidos o evitar la expulsión del país.",
+        "list3": "Buscar asistencia en el proceso de solicitud porque hay varios formularios y documentación que son demasiado complicados o que requieren mucho tiempo.",
+        "list4": "Tener procedimientos de deportación o remoción en su contra.",
+        "list5": "Inseguro de su elegibilidad básica para una tarjeta verde u otro beneficio de inmigración.",
+        "list6": "Tiene la intención de invertir en los EE.UU. a través de bienes raíces, agricultura, etc.",
+        "list7": "Tiene problemas para obtener una tarjeta verde de USCIS, ciudadanía u otro beneficio de inmigración.",
+        "list8": "Requiere asistencia urgente con una situación de inmigración.",
+        "list9": "Necesita proporcionar documentación adicional.",
+        "list10": "Busca solicitar la readmisión después de la deportación."
+      },
+
+      "faq": {
+        "title": "Echa un vistazo a nuestras preguntas frecuentes",
+        "list1": "¿Cuál es su precio? ¿Tienen plan de pagos a plazos?",
+        "list2": "¿Cuánto tiempo se tarda en conseguir un trabajo?",
+        "list3": "¿Aceptan casos fuera de los Estados Unidos?"
+      }
+    },
+
+    "swissServicePage": {
+      "header1": "Costo de Migrate Compass: ¿Vale la pena tu dinero?",
+      "paragraph1": "En Migrate Compass, nos enorgullece nuestro equipo de profesionales de inmigración con experiencia, incluidos ex oficiales consulares, y nuestros fuertes lazos con los servicios consulares. Nuestra experiencia no solo se encuentra en los EE. UU., sino también en la mayoría de las leyes de inmigración europeas. Ofrecemos un servicio integral que comienza con",
+
+      "span1": "conectándote con posibles empleadores en Suiza",
+
+      "span2": "Una vez que aseguramos una oferta de empleo para ti, te guiamos a través del proceso de obtención de tu visa de trabajo suiza.",
+
+      "headingText1": "Asistencia para la Visa de Trabajo Suiza",
+      "subHeadingText1": "Plan de Pago para el Permiso B / Permiso L",
+      "subHeadingDetails1": "Nuestro plan de pago de asistencia para la visa de trabajo suiza está diseñado para simplificar el proceso de obtención de tu Permiso B o Permiso L de trabajo. Esto es lo que puedes esperar:",
+
+      "Benefits": {
+        "list1": "Asegurándote un trabajo con nuestras extensas redes de startups, agencias, pequeñas empresas e individuos en toda Suiza o Luxemburgo.",
+        "list2": "Serías emparejado con otros inmigrantes para el alojamiento, donde ambos compartirían los gastos. Este es un arreglo opcional.",
+        "list3": "Recibes un servicio premium ya que mantenemos relaciones sólidas con los consulados de inmigración.",
+        "list4": "Asignación de un oficial dedicado para guiarte desde el primer día del proceso hasta tu llegada a Suiza.",
+        "list5": "Evaluación exhaustiva de tu elegibilidad para la categoría de Permiso B o Permiso L.",
+        "list6": "Asistencia con la preparación y presentación de tu solicitud de visa.",
+        "list7": "Orientación sobre la compilación de la documentación y evidencia necesarias.",
+        "list8": "Apoyo continuo de nuestro experimentado equipo de inmigración durante todo el proceso.",
+        "list9": "Actualizaciones regulares sobre el estado de tu solicitud y cualquier desarrollo."
+      },
+
+      "paragraph3": "Con nuestra tarificación transparente y opciones de pago flexibles, puedes concentrarte en tus oportunidades de carrera en Suiza mientras nosotros manejamos las complejidades de tu solicitud de visa.",
+
+      "paragraph4": "Para más información, por favor chatea con nuestro",
+      "header2": "Plan de Pago.",
+      "paymentTypeA": {
+        "heading1": "Primer Pago: Proceso de Solicitud",
+        "price1": "$3,830",
+        "text1": "Este pago se debe una vez que firmas el contrato de acuerdo. Esto inicia el proceso en el que un oficial dedicado comienza a trabajar en asegurarte un trabajo en Suiza. Esto cubre la obtención de tu propio oficial asignado y, lo más importante, la conexión con un patrocinador de confianza para oportunidades de empleo.",
+
+        "heading2": "Segundo Pago: Después de la Aprobación del Trabajo.",
+        "price2": "$2,980",
+        "text2": "Este pago se debe después de que te hemos asegurado un trabajo en Suiza.",
+
+        "uLFeesA": {
+          "list1": "Preparación y presentación de tu solicitud de permiso de trabajo suizo",
+          "list2": "Orientación sobre la recopilación de la documentación y evidencia necesarias",
+          "list3": "Tasas de procesamiento consular",
+          "list4": "Servicios legales para tu caso, incluyendo la comunicación con las autoridades de inmigración suizas y respondiendo a cualquier solicitud de información adicional",
+          "list5": "Costos legales asociados con la solicitud de permiso de trabajo suizo",
+          "list6": "Tasa de Solicitud / Presentación",
+          "list7": "Servicios de Migrate Compass para apoyo continuo durante todo el proceso",
+          "list8": "Tasas de envío para enviar tus documentos a las autoridades de inmigración suizas",
+          "list9": "Preparación para cualquier entrevista necesaria con las autoridades de inmigración suizas"
+        },
+
+        "uLFeesC": {
+          "list1": "Tarifa de Servicio Total de Migrate Compass",
+          "list2": "Asistencia con el proceso de registro local a su llegada a Suiza",
+          "list3": "Apoyo en la búsqueda de alojamiento y establecimiento en Suiza",
+          "list4": "Orientación sobre la seguridad social suiza, el sistema fiscal y otras regulaciones locales"
+        },
+
+        "heading3": "Tercer Pago: Después de la Aprobación de la Visa.",
+        "price3": "$3,800",
+        "text3": "Este pago se debe después de que tu visa de trabajo suiza haya sido aprobada.",
+        "paragraph": "Si tienes alguna pregunta o preocupación sobre el proceso de pago, no dudes en ponerte en contacto con nosotros en support@migratecompass.com."
+      },
+
+      "Header6": "Cuándo contratar",
+      "span6": "¿Migrate Compass?",
+      "paragraph6": "La ley de inmigración en Suiza es complicada. Generalmente es práctico contratar a un especialista en inmigración como Migrate Compass para ahorrarte tiempo, dinero y evitar confusiones. Las situaciones en las que necesitas contratar a un abogado de visas se enumeran a continuación.",
+
+      "reasonsToHireUs": {
+        "list1": "Si necesitas asistencia para conseguir un trabajo en Suiza.",
+        "list2": "Acusado de un delito o cometido un delito y buscar la reentrada a Suiza o cualquier parte de Europa o evitar la expulsión del país.",
+        "list3": "Buscar asistencia en el proceso de solicitud porque hay varios formularios y documentación que son demasiado complicados o que requieren mucho tiempo.",
+        "list4": "Tener procedimientos de deportación o remoción en tu contra.",
+        "list5": "Inseguro de tu elegibilidad básica para un permiso de trabajo suizo u otro beneficio de inmigración.",
+        "list6": "Tiene la intención de invertir en Suiza a través de bienes raíces, agricultura, etc.",
+        "list7": "Si tienes problemas para obtener un permiso de trabajo suizo, papeles incompletos u otro beneficio suizo",
+        "list8": "Requiere asistencia urgente con una situación de inmigración.",
+        "list9": "Necesita proporcionar documentación adicional.",
+        "list10": "Busca solicitar la readmisión después de la deportación."
+      },
+
+      "faq": {
+        "title": "Echa un vistazo a nuestras preguntas frecuentes",
+        "list1": "¿Hay un reembolso de dinero si la visa no es exitosa?",
+        "list2": "¿Cuánto tiempo se tarda en conseguir un trabajo?",
+        "list3": "¿Cuál es tu precio? ¿Tienes plan de pagos a plazos?"
+      }
+    },
+
+    "swissFaqPage": {
+      "headingText1": "Suiza",
+      "subHeadingText1": "Preguntas frecuentes",
+      "subHeadingDetails1": "Si no está satisfecho, chatee con nuestro equipo de soporte",
+      "paragraph": "Para más información, por favor chatee con nosotros",
+      "swissFaqs": {
+        "list1": "¿Cuál es el papel del oficial dedicado asignado a mí?",
+        "details1": "El oficial dedicado te guía desde el primer día del proceso hasta tu llegada a Suiza. Son tu principal punto de contacto y brindan apoyo continuo durante todo el proceso.",
+        "list2": "¿Cómo ayudan a los inmigrantes a conseguir trabajos en Suiza?",
+        "details2": "Tenemos una extensa red de startups, agencias, pequeñas empresas e individuos en toda Suiza que necesitan trabajadores extranjeros. Aprovechamos esta red para ayudarte a conseguir un trabajo que se ajuste a tus habilidades y preferencias.",
+        "list3": "¿Pueden ayudar a encontrar alojamiento en Suiza?",
+        "details3": "Sí, podemos emparejarte con otros inmigrantes para el alojamiento, donde ambos compartirían los gastos. Este es un arreglo opcional.",
+        "list4": "¿Ofrecen un plan de pago a plazos?",
+        "details4": "Sí, ofrecemos un plan de pago a plazos flexible para hacer el proceso más asequible para nuestros clientes, hable con la Línea de Soporte para obtener más información.",
+        "list5": "¿En qué tipos de visas de trabajo suizas se especializan?",
+        "details5": "Nos especializamos en las visas de trabajo Permit B y Permit L para Suiza.",
+        "list6": "¿Cuál es el proceso para obtener una visa de trabajo suiza?",
+        "details6": "El proceso implica asegurar una oferta de trabajo, preparar y presentar la solicitud de visa, y pasar por el proceso de aprobación de la visa.",
+        "list7": "¿Cuánto tiempo se tarda en conseguir un trabajo en Suiza?",
+        "details7": "El tiempo puede variar dependiendo del mercado laboral y las habilidades y calificaciones específicas del inmigrante, por favor chatee con nosotros para obtener más información.",
+        "list8": "¿Qué tipo de apoyo proporcionan durante el proceso de solicitud de visa?",
+        "details8": "Nuestros fuertes lazos con los consulados suizos nos permiten proporcionar este nivel premium de apoyo. Proporcionamos apoyo premium que incluye asistencia para preparar y presentar la solicitud de visa, orientación sobre la recopilación de la documentación y evidencia requeridas, y actualizaciones regulares sobre el estado de su solicitud.",
+        "list9": "¿Qué sucede si mi solicitud de visa no es exitosa?",
+        "details9": "Si su solicitud de visa no es exitosa, proporcionaremos orientación sobre los próximos pasos apropiados a tomar en respuesta al rechazo. Si se determina que es necesario un reembolso, emitiremos un reembolso parcial de la tarifa de servicio que inicialmente pagó. La cantidad exacta del reembolso dependerá de las circunstancias específicas y se discutirá con usted en ese momento.",
+        "list10": "¿Cuál es su conexión con los patrones de inversión?",
+        "details10": "Conectamos a los inmigrantes con posibles inversores para explorar oportunidades de negocio e inversión en Suiza.",
+        "list11": "¿Cuál es el costo de sus servicios?",
+        "details11": "Nuestras tarifas son transparentes y ofrecemos opciones de pago flexibles. El costo total dependerá de los servicios específicos que requiera.",
+        "list12": "¿Qué pasa si tengo una visa vencida?",
+        "details12": "Por favor, le recomendamos que chatee con nosotros o con la Línea de Soporte para obtener apoyo, para que podamos proporcionarle la mejor solución y apoyo",
+        "list13": "¿Cuáles son los criterios de elegibilidad para las categorías de visa Permit B o Permit L?",
+        "details13": "Los criterios de elegibilidad para estas categorías de visa pueden variar. Realizamos una evaluación exhaustiva de su elegibilidad como parte de nuestros servicios.",
+        "list14": "¿Cuál es el proceso después de que mi visa de trabajo suiza ha sido aprobada?",
+        "details14": "Después de que su visa ha sido aprobada, asistimos con el proceso de registro local a su llegada a Suiza y brindamos apoyo para encontrar alojamiento y establecerse.",
+
+        "list15": "¿Qué tipo de servicios legales proporcionan?",
+        "details15": "Nuestros servicios legales incluyen la comunicación con las autoridades de inmigración suizas y la respuesta a cualquier solicitud de información adicional.",
+
+        "list16": "¿Cómo es el sistema de seguridad social e impuestos en Suiza?",
+        "details16": "Suiza tiene un sistema de seguridad social integral y un sistema de impuestos progresivo. Proporcionamos orientación sobre estas y otras regulaciones locales.",
+
+        "list17": "¿Qué tipo de trabajos ayudan a asegurar para los inmigrantes?",
+        "details17": "Ayudamos a asegurar trabajos en una amplia gama de sectores, dependiendo de las habilidades y preferencias del inmigrante.",
+
+        "list18": "¿Cuál es la tasa de éxito de las solicitudes de visa que manejan?",
+        "details18": "tenemos una alta tasa de éxito debido a nuestra experiencia y enfoque minucioso, junto con nuestros fuertes lazos con el consulado suizo.",
+
+        "list19": "¿En qué tipo de negocios puedo invertir en Suiza?",
+        "details19": "Suiza ofrece una amplia gama de oportunidades de inversión, incluyendo bienes raíces, agricultura y más. Podemos conectarlo con posibles oportunidades de inversión basadas en sus intereses.",
+
+        "list20": "¿Qué sucede si cometo un delito en Suiza?",
+        "details20": "Cometer un delito puede tener graves consecuencias, pero le aconsejamos que hable con nuestra Línea de Apoyo"
+      }
+    },
+
+    "usaFaqPage": {
+      "headingText1": "Estados Unidos",
+      "subHeadingText1": "Preguntas frecuentes",
+      "subHeadingDetails1": "Si no está satisfecho, chatee con nuestro equipo de soporte",
+      "paragraph": "Para obtener más información, por favor chatee con nosotros",
+
+      "usaFaqs": {
+        "list1": "¿Cuál es el papel del oficial dedicado asignado a mí?",
+        "details1": "El oficial dedicado te guía desde el primer día del proceso hasta tu llegada a los Estados Unidos. Son tu principal punto de contacto y brindan apoyo continuo durante todo el proceso.",
+
+        "list2": "Deseo trabajar en los Estados Unidos. ¿Pueden ayudarme a obtener una visa de trabajo?",
+        "details2": "Tenemos una extensa red con startups, grandes corporaciones, agencias, pequeñas empresas e individuos en todo el país que necesitan trabajadores extranjeros. Aprovechamos esta red para ayudarte a conseguir un trabajo que se ajuste a tus habilidades y preferencias. Por favor, chatea con nosotros para obtener más información.",
+
+        "list3": "¿Pueden ayudar a encontrar alojamiento en los Estados Unidos?",
+        "details3": "Sí, podemos emparejarte con otros inmigrantes para el alojamiento, donde ambos compartirían los gastos. Este es un arreglo opcional.",
+
+        "list4": "¿Ofrecen un plan de pago a plazos?",
+        "details4": "Sí, ofrecemos un plan de pago a plazos flexible para hacer el proceso más asequible para nuestros clientes, habla con la Línea de Soporte para obtener más información.",
+
+        "list5": "¿En qué tipos de visas de trabajo de EE. UU. se especializan?",
+        "details5": "Nos especializamos en las visas de trabajo Eb-3, Eb-2, H1-B para los Estados Unidos.",
+
+        "list6": "¿Cuál es el proceso para obtener una visa de trabajo de EE. UU.?",
+        "details6": "Nuestros fuertes lazos con los consulados de USCIS hacen que el proceso sea más rápido ya que aceleramos todos los procesos para nuestros clientes. El proceso implica asegurar una oferta de trabajo, preparar y presentar la solicitud de visa, y pasar por el proceso de aprobación de la visa. Por favor, para obtener más información chatea con nosotros.",
+
+        "list7": "¿Cuánto tiempo se tarda en conseguir un trabajo en los Estados Unidos?",
+        "details7": "El tiempo puede variar dependiendo del mercado laboral y las habilidades y calificaciones específicas del inmigrante. Típicamente, este proceso puede tomar entre 1 a 2 meses. Por favor, chatea con nuestro equipo para obtener más información.",
+
+        "list8": "¿Qué tipo de apoyo proporcionan durante el proceso de solicitud de visa?",
+        "details8": "Nuestros fuertes lazos con los consulados de USCIS nos permiten proporcionar este nivel premium de apoyo. Proporcionamos apoyo premium que incluye asistencia para preparar y presentar la solicitud de visa, proceso acelerado, orientación sobre la recopilación de la documentación y evidencia requeridas, y actualizaciones regulares sobre el estado de tu solicitud.",
+
+        "list9": "¿Qué sucede si mi solicitud de visa no es exitosa?",
+        "details9": "Si tu solicitud de visa no es exitosa, proporcionaremos orientación sobre los próximos pasos apropiados a tomar en respuesta al rechazo. Si se determina que es necesario un reembolso, emitiremos un reembolso parcial de la tarifa de servicio que inicialmente pagaste. La cantidad exacta del reembolso dependerá de las circunstancias específicas y se discutirá contigo en ese momento.",
+
+        "list10": "¿Cuál es su conexión con los patrones de inversión?",
+        "details10": "Conectamos a los inmigrantes con posibles inversores para explorar oportunidades de negocio e inversión en los Estados Unidos.",
+
+        "list11": "¿Cuál es el costo de sus servicios?",
+        "details11": "Nuestras tarifas son transparentes y ofrecemos opciones de pago flexibles. El costo total dependerá de los servicios específicos que requieras.",
+
+        "list12": "¿Qué pasa si tengo una visa vencida?",
+        "details12": "Te recomendamos que chatees con nosotros o con la Línea de Soporte para obtener apoyo, para que podamos proporcionarte la mejor solución y apoyo",
+
+        "list13": "¿Cuáles son los criterios de elegibilidad para las categorías de visa de trabajo?",
+        "details13": "Los criterios de elegibilidad para estas categorías de visa pueden variar. Realizamos una evaluación exhaustiva de tu elegibilidad como parte de nuestros servicios.",
+        "list14": "¿Cuál es el proceso después de que mi permiso de trabajo ha sido aprobado?",
+        "details14": "Después de que su visa ha sido aprobada, asistimos con el proceso de registro local a su llegada a los Estados Unidos y brindamos apoyo para encontrar alojamiento y establecerse.",
+
+        "list15": "¿Qué tipo de servicios legales proporcionan?",
+        "details15": "Nuestros servicios legales incluyen la comunicación con USCIS y la respuesta a cualquier solicitud de información adicional.",
+
+        "list16": "¿Cómo es el sistema de seguridad social e impuestos en los Estados Unidos?",
+        "details16": "Los Estados Unidos tienen un vasto sistema de seguridad social y un sistema de impuestos progresivo. Proporcionamos orientación sobre estas y otras regulaciones locales.",
+
+        "list17": "¿Qué tipo de trabajos ayudan a asegurar para los inmigrantes?",
+        "details17": "Ayudamos a asegurar trabajos en una amplia gama de sectores, dependiendo de las habilidades y preferencias del inmigrante.",
+
+        "list18": "¿Cuál es la tasa de éxito de las solicitudes de visa que manejan?",
+        "details18": "tenemos una alta tasa de éxito debido a nuestra experiencia y enfoque minucioso, junto con nuestros fuertes lazos con el consulado de USCIS.",
+
+        "list19": "¿En qué tipo de negocios puedo invertir en Suiza?",
+        "details19": "Ofrecemos una amplia gama de oportunidades de inversión, incluyendo bienes raíces, agricultura, talleres y más. Podemos conectarlo con posibles oportunidades de inversión basadas en sus intereses.",
+
+        "list20": "¿Qué sucede si cometo un delito en los Estados Unidos?",
+        "details20": "Cometer un delito puede tener graves consecuencias, pero le aconsejamos que hable con nuestra Línea de Apoyo"
+      }
+    }
+  }
+}
